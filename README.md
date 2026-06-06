@@ -1,0 +1,2 @@
+# DMI-Strategy
+REAL-TIME ROLLING DMI
